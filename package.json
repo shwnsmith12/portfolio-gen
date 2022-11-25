@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-gen",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "type": "commonjs",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shwnsmith12/portfolio-gen.git"
+  },
+  "author": "shwnsmith12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shwnsmith12/portfolio-gen/issues"
+  },
+  "homepage": "https://github.com/shwnsmith12/portfolio-gen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
