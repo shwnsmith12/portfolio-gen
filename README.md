@@ -24,7 +24,7 @@ To use this Team Profile Generator, please clone the repository and be sure to i
 * jest
 
 ## Screenshot
-
+<img width="1680" alt="Screenshot 2022-11-25 at 8 58 25 AM" src="https://user-images.githubusercontent.com/110200047/204011089-8efdbe38-fa52-48ef-9dc1-cc88b8588402.png">
 
 ## Repository
 https://github.com/shwnsmith12/portfolio-gen
